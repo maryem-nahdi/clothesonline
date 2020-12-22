@@ -4,11 +4,24 @@
     background-repeat: no-repeat;
     background-position: 30% 30%;
     background-size: cover;
-    width: 100%;
-    height: 100%;  
+    width: 1350;
+    height: 1400;  
     top: 0;
     left: 0;
     margin:0 0 0 0;
+}
+.hero{
+    color: #00ba96;
+    font-size: 24px;
+    font-weight: bold;
+    position:relative;
+    z-index: 999;
+    padding: 15px 30px;
+    left: 0;
+    text-decoration: none;
+    margin-top: 30px;
+    border: 4px solid #00ba96;
+    box-shadow: 0 0 0 6px #101113, 8px 8px 0px 2px #00ba96;
 }
 .navigation{
     display : flex ;
@@ -47,7 +60,7 @@
         }
         .log{
             text-align:center; 
-            font-size: 15px;
+            font-size: 13px;
         font-weight:700;
         margin-top: -5%;
         margin-left: 60%;
@@ -57,19 +70,91 @@
         }
         .log a {
             color: rgb(255, 255, 255);
+            font-family: sans-serif;
         }
         .taswira h1{
-            font-family: avantgardebook,lucida grande,lucida sans unicode,dejavu sans,Verdana,sans-serif;
-            text-transform: uppercase;
+            font-family: sans-serif;
+          
             color: #fff;
            
-            letter-spacing: 5px;
-            font-size: 47px;
+         
+            
             margin-top: 20px;
-          
+            position: absolute;
+            top: 150px;
+            left: 120px;
+            font-size: 120px;
+           
+            line-height: 1.1;
             }
             .taswira{
-                margin: 8% 20%;
+                margin: 8% 10%;
                 text-align:left
                 
                 }            
+                .mouraba3{
+                    display: flex;
+                    flex-direction: row;
+                    background-color: rgba(22, 21, 24, 0.246);
+                    margin-top: -1%;
+                    }
+                    .contacts{
+                        width:100%;
+                    margin-top: 2.2%;
+                    margin-left: 0;
+                    
+                    }
+                    .apropos{
+                        margin-top: 2.2%;
+                        width:100%;
+                        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                               font-size: 16px;
+                    
+                    }
+                    .cn{
+                      font-family: Karla;
+                        color: #fff;
+                        font-weight: 700;
+                        font-style: normal;
+                        }
+                        .nass{
+                            margin-top: 5%;
+                            margin: 3% ;
+                            font-family: cursive;
+                            color: rgb(36, 31, 31);
+                            font-size: 12px;
+                            width: 80%;
+                            margin-right: 10%;
+                        }
+                        .louta{
+                           font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                           font-size: 16px;
+                           width: 100%;
+                           color: rgba(255,255,255,.6);
+                
+                        }
+                        .informations{
+                            width:100%;
+                            background-color:rgb(26, 26, 27);
+                            margin-top: 0%;
+                            margin-bottom: 0%;
+                            
+                            
+                            }                        
+                            .font-title{
+                                text-align: center;
+                                font-size: 16px;
+                                font-style: italic;
+                                color: rgb(212, 199, 199);
+                                font-family: Karla, 'MS Sans Serif', Geneva, sans-serif;
+                                margin-right: 30%;
+                                margin-left: 20%;   
+                            margin-bottom: 8%;   
+                                             }
+                                .title{
+                                    font-size: 26px;
+                                    position: relative;
+                                    margin:0 20% 0 32%;
+                                    
+                                }
+                          
