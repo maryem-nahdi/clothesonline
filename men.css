@@ -41,3 +41,23 @@
     color: rgb(255, 255, 255);
     font-family: sans-serif;
             }
+            .shop{
+                margin-bottom: 20px;
+                margin-top: -10px;
+                text-align: right;
+                line-height: 20px;
+                padding: 10px 0 0 0;
+                vertical-align: middle;
+                width: 100%;
+            
+            }
+            .shopify{
+                color: rgba(255,255,255,.5);
+            margin-right: 93%;
+            font-size: 13px;
+            line-height: 20px;
+            display: inline-block;
+            
+            vertical-align: middle;
+        
+            }
