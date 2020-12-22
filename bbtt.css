@@ -4,8 +4,8 @@
     background-repeat: no-repeat;
     background-position: 30% 30%;
     background-size: cover;
-    width: 1350;
-    height: 1400;  
+    width: 1340;
+    height: 1600;  
     top: 0;
     left: 0;
     margin:0 0 0 0;
@@ -14,7 +14,7 @@
     color: #00ba96;
     font-size: 24px;
     font-weight: bold;
-    position:relative;
+    position:absolute;
     z-index: 999;
     padding: 15px 30px;
     left: 0;
@@ -95,8 +95,8 @@
                 .mouraba3{
                     display: flex;
                     flex-direction: row;
-                    background-color: rgba(22, 21, 24, 0.246);
-                    margin-top: -1%;
+                   
+                    margin-top: 90%;
                     }
                     .contacts{
                         width:100%;
@@ -133,28 +133,24 @@
                            color: rgba(255,255,255,.6);
                 
                         }
-                        .informations{
-                            width:100%;
-                            background-color:rgb(26, 26, 27);
-                            margin-top: 0%;
-                            margin-bottom: 0%;
-                            
-                            
-                            }                        
+                                             
                             .font-title{
                                 text-align: center;
                                 font-size: 16px;
                                 font-style: italic;
-                                color: rgb(212, 199, 199);
-                                font-family: Karla, 'MS Sans Serif', Geneva, sans-serif;
+                                color: #fff;
+                                font-family:sans-serif;
+                                font-weight: 600;
                                 margin-right: 30%;
-                                margin-left: 20%;   
-                            margin-bottom: 8%;   
+                                margin-left: 20%;
+    line-height: 1.5;
+  
                                              }
                                 .title{
                                     font-size: 26px;
                                     position: relative;
                                     margin:0 20% 0 32%;
+                                    color: #fff;
                                     
                                 }
                           
