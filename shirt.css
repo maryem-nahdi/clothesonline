@@ -9,7 +9,8 @@ body{
     padding: 0;
 }
 .bg{
-    background-color:  #101113;;
+    background-color:  #101113;
+    border-bottom: 1px solid rgba(219, 217, 217, 0.24);
 }
 .navigation{
     display : flex ;
@@ -61,21 +62,33 @@ body{
             }
             .shop{
                 margin-bottom: 20px;
-                margin-top: -10px;
+                margin-top: -12px;
                 text-align: center;
+                margin-left: 45%;
                 line-height: 20px;
                 padding: 10px 0 0 0;
                 vertical-align: middle;
                 width: 100%;
+                
             
             }
             .shopify{
                 color: rgba(255,255,255,.5);
-            margin-right: 93%;
-            font-size: 13px;
+            margin-right: 88%;
+            font-size: 16px;
             line-height: 20px;
             display: inline-block;
-            
+            text-decoration: none;
             vertical-align: middle;
-        
+            font-family: sans-serif;     
+           
+           
             }
+.shrt{
+    color: #fff;
+    font-size:20px;
+    font-family: sans-serif;
+  margin-right: 50%;
+  text-align: left;
+  margin-left: -40%;
+}
