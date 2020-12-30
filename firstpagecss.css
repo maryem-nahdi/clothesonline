@@ -129,15 +129,17 @@ body{
                         padding-bottom: 4px;
                         }
 
-                     .m{text-decoration: none;
-                    color: rgba(255,255,255,.6);}
+                     .m{
+                         text-decoration: none;
+                    color: rgba(255,255,255,.6);
+                }
                         .nass{
                             margin-top: 5%;
                             margin: 3% ;
                             font-family: cursive;
                             color: rgb(36, 31, 31);
                             font-size: 12px;
-                            width: 80%;
+                            width: 81%;
                             margin-right: 10%;
                         }
                         .louta{
