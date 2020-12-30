@@ -89,6 +89,14 @@ body{
     font-size:20px;
     font-family: sans-serif;
   margin-right: 50%;
-  text-align: left;
+  text-align:left;
+  margin-left: -40%;
+}
+.shirts{
+    color: #fff;
+    font-size:20px;
+    font-family: sans-serif;
+  margin-right: 50%;
+  text-align:left;
   margin-left: -40%;
 }
