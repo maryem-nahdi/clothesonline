@@ -5,6 +5,26 @@ body{
 .bg{
     background-color:  #101113;;
 }
+.headerl{
+    font-size: 17px;
+    font-style: italic;
+    
+    
+}
+.log{
+    text-align:center; 
+    font-size: 13px;
+font-weight:700;
+margin-top: -5%;
+margin-left: 78%;
+list-style-type: none;
+height: 60px;
+
+}
+.log a {
+    color: rgb(255, 253, 253);
+    font-family: sans-serif;
+}
 .navigation{
     display : flex;
     flex-direction: row;
