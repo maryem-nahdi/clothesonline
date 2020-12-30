@@ -57,16 +57,22 @@ body{
                 padding: 10px 0 0 0;
                 vertical-align: middle;
                 width: 100%;
+text-decoration: none;
+outline: none;
             
             }
             .shopify{
+    
                 color: rgba(255,255,255,.5);
+            
             margin-right: 93%;
-            font-size: 13px;
+            font-size: 15px;
             line-height: 20px;
             display: inline-block;
-            
+          text-decoration: none;
+          outline: none;
             vertical-align: middle;
+           
         
             }
             img{
@@ -76,8 +82,66 @@ body{
             }
             .first{
                 margin-left: 5%;
+              
                 
               }
+              .first:hover{
+                  background-color: rgba(3, 3, 3, 0.267);
+              }
+            
+              .pull{
+                  font-size: 13px;
+                  display: block;
+                  margin-left: 30%;
+                  letter-spacing: 3px;
+    text-decoration: none;
+color: #fff;
+font-weight: 600;
+font-style: normal;
+font-family:Arial, Helvetica, sans-serif;
+
+              }
+              .pull1{
+                letter-spacing: 3px;
+                text-decoration: none;
+                font-size: 13px;
+                margin-left: 10%;
+                color: #fff;
+                font-weight: 600;
+                font-style: normal;
+                font-family: Karla, 'MS Sans Serif', Geneva, sans-serif;
+              }
+              .prix{
+                letter-spacing: 3px;
+                text-decoration: none;
+                font-size: 13px;
+                margin-left: 36%;
+                color: #fff;
+                font-weight: 600;
+                font-style: normal;
+                font-family: Karla, 'MS Sans Serif', Geneva, sans-serif; 
+              }
+              .prix1{
+                letter-spacing: 3px;
+                text-decoration: none;
+                font-size: 13px;
+                margin-left: 42%;
+                color: #fff;
+                font-weight: 600;
+                font-style: normal;
+                font-family: Karla, 'MS Sans Serif', Geneva, sans-serif; 
+              }
+.pull2{
+    font-size: 13px;
+    display: block;
+    margin-left: 42%;
+    letter-spacing: 3px;
+text-decoration: none;
+color: #fff;
+font-weight: 600;
+font-style: normal;
+font-family:Arial, Helvetica, sans-serif;
+}
               .mouraba3{
                 display: flex;
                 flex-direction: row;
